@@ -1,4 +1,4 @@
-# 🔗 URL Shortener & Stats Tracker (React)
+#  URL Shortener & Stats Tracker (React)
 
 A fully responsive frontend-only **URL Shortener** app built with **React** and **Material UI** that allows users to:
 
@@ -9,29 +9,29 @@ A fully responsive frontend-only **URL Shortener** app built with **React** and 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 📍 Home - URL Shortener Form
+###  Home - URL Shortener Form
 <img src="/screenshots/url_form.png" width="800" alt="Shortener Form UI" />
 
-### 📊 Stats Dashboard (Responsive)
+###  Stats Dashboard (Responsive)
 <img src="/screenshots/stats_desktop.png" width="800" alt="Stats Desktop View" />
 <img src="/screenshots/stats_mobile.png" width="400" alt="Stats Mobile View" />
 
 ---
 
-## 🧩 Features
+##  Features
 
-- 📌 **Generate Short URLs** with optional expiry
-- ⏳ **Track Expiry** with real-time countdown
-- 🖱️ **Click Tracking** with metadata (time, source, location)
-- 📊 **Responsive Stats Dashboard** using MUI's Grid system
-- 🧹 **Clear All Data** button to reset everything
-- 💾 Fully **localStorage-based** (works offline)
+-  **Generate Short URLs** with optional expiry
+-  **Track Expiry** with real-time countdown
+-  **Click Tracking** with metadata (time, source, location)
+-  **Responsive Stats Dashboard** using MUI's Grid system
+-  **Clear All Data** button to reset everything
+-  Fully **localStorage-based** (works offline)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tech | Description |
 |------|-------------|
@@ -41,13 +41,13 @@ A fully responsive frontend-only **URL Shortener** app built with **React** and 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 - Node.js and npm installed
 
-### 📦 Installation
+###  Installation
 
 ```bash
 git clone https://github.com/Mohith-Creator/22B91A05Q4.git
