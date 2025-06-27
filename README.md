@@ -55,3 +55,24 @@ cd frontend
 npm install
 npm run dev
 ```
+
+### Folder Structure
+
+```bash
+Frontend/
+├──node_modules
+├──public
+├──screenshots
+├──src/
+├── components/
+│   └── URLShortenerForm.jsx
+│   └── URLStats.jsx
+├── pages/
+│   └── RedirectPage.jsx
+├── utils/
+│   └── logger.js
+├── App.jsx
+└── index.jsx
+└── main.jsx
+```
+
